@@ -1,4 +1,0 @@
-SELECT UPPER(name) AS name
-FROM cities
-ORDER BY name
-LIMIT 5 OFFSET 5;
